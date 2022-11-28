@@ -1,0 +1,16 @@
+{
+  "name": "oasis-soft-engine",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "vite": "^2"
+  },
+  "dependencies": {
+    "oasis-engine": "^0.6"
+  }
+}
